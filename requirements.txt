@@ -1,0 +1,8 @@
+transformers
+numpy
+pandas
+matplotlib
+scipy
+deepgram-sdk
+python-dotenv
+torch
