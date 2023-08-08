@@ -2,6 +2,7 @@ transformers
 numpy
 pandas
 matplotlib
+seaborn
 scipy
 deepgram-sdk
 python-dotenv
