@@ -7,3 +7,4 @@ scipy
 deepgram-sdk
 python-dotenv
 torch
+pytube
